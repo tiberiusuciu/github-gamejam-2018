@@ -7,7 +7,7 @@ public class Balloon_object : MonoBehaviour {
 	public Sprite pop_sprite;
 
 	private AudioSource audioSource;
-	private bool isPopped = false;
+	public bool isPopped = false;
 
 	// Use this for initialization
 	void Start () {

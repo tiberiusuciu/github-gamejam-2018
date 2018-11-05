@@ -354,6 +354,7 @@
     <Compile Include="Assets\Scripts\Balloon_object.cs" />
     <Compile Include="Assets\Scripts\Balloon_popping.cs" />
     <Compile Include="Assets\Scripts\Dice.cs" />
+    <Compile Include="Assets\Scripts\GameManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\PostProcessing\Editor Resources\Monitors\HistogramCompute.compute" />
